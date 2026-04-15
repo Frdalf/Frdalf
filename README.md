@@ -1,8 +1,10 @@
 <div align="center">
 
-# Farid Al Farizi
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:14b8a6&height=200&section=header&text=Farid%20Al%20Farizi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20AI-assisted%20Builder&descAlignY=58&descColor=e0f2fe)
 
-**Fullstack Developer · Informatics Student · AI-assisted Builder**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0EA5E9&center=true&vCenter=true&width=500&lines=Fullstack+Developer+%F0%9F%9A%80;Informatics+Student+at+UMM+%F0%9F%8E%93;AI-assisted+Builder+%F0%9F%A4%96;Open+to+Freelance+%26+Remote+Work+%F0%9F%92%BC)](https://git.io/typing-svg)
+
+---
 
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
@@ -10,7 +12,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)](https://prisma.io)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-faridalfarizi.vercel.app-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://faridalfarizi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-faridalfarizi.vercel.app-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://faridalfarizi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faridalfarizi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faridalfarizi)
 [![Email](https://img.shields.io/badge/Email-farid.alfarizi2305@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:farid.alfarizi2305@gmail.com)
 
@@ -20,7 +22,7 @@
 
 ## 👋 Hey there!
 
-I'm an **Informatics student at Universitas Muhammadiyah Malang (UMM)**, currently in semester 3, and a **freelance fullstack developer** who has shipped production apps for real clients.
+I'm an **Informatics student at Universitas Muhammadiyah Malang (UMM)**, currently in semester 4, and a **freelance fullstack developer** who has shipped production apps for real clients.
 
 I work with an **AI-assisted development** approach — combining modern tooling (Claude, Cursor) with technical understanding to verify, review, and refine output. The result? Products that ship fast without sacrificing quality.
 
@@ -77,14 +79,16 @@ I work with an **AI-assisted development** approach — combining modern tooling
 
 <div align="center">
 
-![Farid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frdalf&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frdalf&layout=compact&theme=default&hide_border=true)
+![Farid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frdalf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=0ea5e9&icon_color=14b8a6&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frdalf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9)
 
 </div>
 
 ---
 
 <div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0ea5e9&height=120&section=footer)
 
 **Open to freelance projects & remote work**
 
