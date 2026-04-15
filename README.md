@@ -2,7 +2,7 @@
 
 # Farid Al Farizi
 
-**Fullstack Developer · Informatika UMM · AI-assisted builder**
+**Fullstack Developer · Informatics Student · AI-assisted Builder**
 
 [![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
@@ -18,16 +18,16 @@
 
 ---
 
-## 👋 Halo!
+## 👋 Hey there!
 
-Saya mahasiswa **Teknik Informatika di Universitas Muhammadiyah Malang (UMM)**, semester 3, sekaligus **freelance fullstack developer** yang udah deliver production app untuk klien nyata.
+I'm an **Informatics student at Universitas Muhammadiyah Malang (UMM)**, currently in semester 3, and a **freelance fullstack developer** who has shipped production apps for real clients.
 
-Saya kerja dengan pendekatan **AI-assisted development** — kombinasi antara tooling modern (Claude, Cursor) dan pemahaman teknis untuk memverifikasi, mereview, dan menyempurnakan output. Hasilnya? Produk yang bisa di-ship cepat tanpa mengorbankan kualitas.
+I work with an **AI-assisted development** approach — combining modern tooling (Claude, Cursor) with technical understanding to verify, review, and refine output. The result? Products that ship fast without sacrificing quality.
 
 ```txt
-🎓  Teknik Informatika · UMM · Semester 3 (2024–present)
+🎓  Informatics · Universitas Muhammadiyah Malang · Semester 3 (2024–present)
 📍  Malang / Bangkalan, Indonesia
-🐍  Currently suka main Python
+🐍  Currently into Python
 💼  Open to freelance & remote work
 ```
 
@@ -37,10 +37,10 @@ Saya kerja dengan pendekatan **AI-assisted development** — kombinasi antara to
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 📋 **Melaries RME** | EMR sistem untuk klinik luka. Production-grade, delivered <3 minggu. *(Private — available as reference upon request)* | Next.js 16 · TypeScript · Prisma · PostgreSQL |
-| 🌐 **[Melaries Company Profile](https://melaries.vercel.app)** | Website publik untuk klinik luka. Responsive, modern, live di Vercel. | Next.js · Tailwind CSS v4 · Vercel |
-| 🤖 **[Crypto Trading Bot](https://github.com/Frdalf)** | Automated trading bot pakai EMA Crossover + RSI strategy di Bybit testnet. | Python · Bybit API |
-| ⬡ **[Token Staking DApp](https://github.com/Frdalf)** | Token staking app deployed di Sepolia testnet. Portfolio Web3. | Solidity · Hardhat · Sepolia |
+| 📋 **Melaries RME** | Electronic Medical Records system for a wound care clinic. Production-grade, delivered in under 3 weeks. *(Private — available as reference upon request)* | Next.js 16 · TypeScript · Prisma · PostgreSQL |
+| 🌐 **[Melaries Company Profile](https://melaries.vercel.app)** | Public-facing website for a wound care clinic. Responsive, modern, live on Vercel. | Next.js · Tailwind CSS v4 · Vercel |
+| 🤖 **[Crypto Trading Bot](https://github.com/Frdalf)** | Automated trading bot using EMA Crossover + RSI strategy on Bybit testnet. | Python · Bybit API |
+| ⬡ **[Token Staking DApp](https://github.com/Frdalf)** | Token staking app deployed on Sepolia testnet. Web3 portfolio piece. | Solidity · Hardhat · Sepolia |
 
 ---
 
