@@ -86,6 +86,17 @@ I work with an **AI-assisted development** approach — combining modern tooling
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![snake](https://raw.githubusercontent.com/Frdalf/Frdalf/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake](https://raw.githubusercontent.com/Frdalf/Frdalf/output/github-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,100:0ea5e9&height=120&section=footer)
