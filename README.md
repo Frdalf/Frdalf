@@ -27,7 +27,7 @@ I'm an **Informatics student at Universitas Muhammadiyah Malang (UMM)**, current
 I work with an **AI-assisted development** approach — combining modern tooling (Claude, Cursor) with technical understanding to verify, review, and refine output. The result? Products that ship fast without sacrificing quality.
 
 ```txt
-🎓  Informatics · Universitas Muhammadiyah Malang · Semester 3 (2024–present)
+🎓  Informatics · Universitas Muhammadiyah Malang · Semester 4 (2024–present)
 📍  Malang / Bangkalan, Indonesia
 🐍  Currently into Python
 💼  Open to freelance & remote work
